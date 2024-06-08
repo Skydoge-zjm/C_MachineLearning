@@ -1,0 +1,7 @@
+
+#ifndef C_LOGISTIC_REGRESSION_MATRIX_TRANSPOSE_H
+#define C_LOGISTIC_REGRESSION_MATRIX_TRANSPOSE_H
+
+double* transpose(double* matrix, int m, int n);
+
+#endif //C_LOGISTIC_REGRESSION_MATRIX_TRANSPOSE_H

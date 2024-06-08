@@ -1,0 +1,7 @@
+
+#ifndef C_LOGISTIC_REGRESSION_ACTIVATION_H
+#define C_LOGISTIC_REGRESSION_ACTIVATION_H
+
+double * sigmoid(double * A, int m, int n);
+
+#endif //C_LOGISTIC_REGRESSION_ACTIVATION_H
